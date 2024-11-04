@@ -1,6 +1,6 @@
-# Pydata Amsterdam 2024
+# GenAI Beyond Chat
 
-Slides and code examples from the [GenAI Beyond Chat with RAG, Knowledge Graphs and Python talk](https://amsterdam2024.pydata.org/cfp/talk/F9AWKJ/) at Pydata Amsterdam 2024.
+Slides and code examples from the GenAI Beyond Chat with RAG, Knowledge Graphs and Python talk.
 
 ## OpenAI
 
@@ -20,7 +20,7 @@ Update the recommendations dataset with embeddings and vector indexes by running
 
 ## Environment
 
-Create a new `.env` file in the root of this respositoy.
+Create a new `.env` file in the root of this repository.
 
 Copy the contents of the `.env.example` file.
 
