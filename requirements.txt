@@ -7,3 +7,4 @@ streamlit==1.35.0
 langchainhub==0.1.18
 langchain-community==0.2.4
 python-dotenv
+httpx==0.27.2
